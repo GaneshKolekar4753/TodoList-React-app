@@ -6,11 +6,7 @@
 ## This is a super simple Todo App built using React.js and styled using CSS.
 
 You can view a live demo of the project here: https://ganeshkolekar4753.github.io/TodoList-React-app/
-Or, you can watch this video demo
 
-### **(its reccomeneded you check out the live demo!)**
-
-https://drive.google.com/file/d/1p55zZJJDynIs110-9-DnixzMMa8DNDVq/view
 
 ## 😃 Features:
 
