@@ -10,7 +10,7 @@ Or, you can watch this video demo
 
 ### **(its reccomeneded you check out the live demo!)**
 
-{vodeo link}
+https://drive.google.com/file/d/1p55zZJJDynIs110-9-DnixzMMa8DNDVq/view?usp=sharing
 
 ## 😃 Features:
 
